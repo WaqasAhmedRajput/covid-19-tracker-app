@@ -1,0 +1,34 @@
+[0625/164350.793:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0625/164350.947:ERROR:exception_snapshot_win.cc(99)] thread ID 6768 not found in process
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde61c8380 of 36 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(191)] could not read debug directory from C:\Windows\SYSTEM32\WINHTTP.dll
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde6100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdd2230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdd2230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde4470000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0625/164351.149:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde4470000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.149:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdf0f7c1c0 of 35 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(191)] could not read debug directory from C:\Windows\System32\bcrypt.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdf0f60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdefc60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdefc60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde8c40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffde8c40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdf2f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdf2f90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[0625/164351.165:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffded290000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0625/164351.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0627/210914.137:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0627/210914.892:ERROR:exception_snapshot_win.cc(99)] thread ID 372 not found in process
