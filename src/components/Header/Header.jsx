@@ -27,7 +27,7 @@ const Header = ({ handleCountryChanging }) => {
                 <Toolbar>
                     <Typography variant="h6" noWrap style={{ flex: 1 }}>
                         <img src={logo} className={styles.logo} alt="COVID-19" />&nbsp;
-                             Tracker1
+                             Tracker
                     </Typography>
                     <FormControl>
                         <NativeSelect className={styles.dropDownMenu} defaultValue="" onChange={(e) => handleCountryChanging(e.target.value)}>
